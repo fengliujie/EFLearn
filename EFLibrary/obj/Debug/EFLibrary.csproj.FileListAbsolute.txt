@@ -1,0 +1,17 @@
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EFLibrary.dll.config
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EFLibrary.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EFLibrary.pdb
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EntityFramework.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EntityFramework.SqlServer.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EntityFramework.xml
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\EntityFramework.SqlServer.xml
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\Newtonsoft.Json.pdb
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\obj\Debug\EFLibrary.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\obj\Debug\EFLibrary.pdb
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\obj\Debug\EFLibrary.Migrations.Init.resources
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\obj\Debug\EFLibrary.csproj.GenerateResource.Cache
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\net代码\web学习\EF_领域设计\EF_学习_web案例\基础篇实践\EFLibrary\obj\Debug\EFLibrary.csprojResolveAssemblyReference.cache
